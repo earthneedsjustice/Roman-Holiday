@@ -12,7 +12,7 @@ a{
 html{
     height: 100%;
     overflow:hidden;
-    background:url('images/Background.png');
+    background:url('Images/Background.png');
     background-size:cover;
 }
 body{
@@ -23,7 +23,7 @@ body{
     margin-top:-275px;
     width:960px;
     height:550px;
-    background:url('images/Center_Background.png');
+    background:url('Images/Center_Background.png');
 }
 #container{
     height:500px;
@@ -41,7 +41,7 @@ body{
     line-height:50px;
 
     text-indent:-9999px;
-    background:url('images/Navigation_Button.png');
+    background:url('Images/Navigation_Button.png');
 }
 
 #main_navigation > ul > li:nth-child(1) > a{ background-position:0px 0px; }
@@ -123,7 +123,7 @@ div[data-name=character] > a{
     width:40px;
     height:40px;
     text-indent:-9999px;
-    background:url("images/Arrow_Images.png");
+    background:url("Images/Arrow_Images.png");
 }
 
 div[data-name=character] > a:nth-child(1){
